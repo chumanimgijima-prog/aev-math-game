@@ -1,0 +1,9 @@
+{
+  "name": "Math Game",
+  "short_name": "Math Game",
+  "description": "A game-show-style ESL math classroom app.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1b1240",
+  "theme_color": "#1b1240"
+}
